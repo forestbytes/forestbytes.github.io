@@ -1,6 +1,6 @@
 +++
 date = '2025-03-10T22:47:18Z'
-draft = true
+draft = false
 title = 'SOW'
 +++
 
