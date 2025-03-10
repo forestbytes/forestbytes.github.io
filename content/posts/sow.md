@@ -1,8 +1,9 @@
 +++
 date = '2025-03-10T22:47:18Z'
 draft = false
-title = 'SOW'
+title = 'Statement of Work'
 +++
 
-# This is the Statement of Work (SOW)  
+## Statement of Work (SOW)
 
+FSEDC Statement of Work  
