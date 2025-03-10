@@ -1,4 +1,4 @@
-baseURL = 'https://forestbytes.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'forestbytes'
-theme = 'ananke'
+title = 'FSEDC'
+theme = 'fsedc'
